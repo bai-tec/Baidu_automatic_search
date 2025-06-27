@@ -14,11 +14,11 @@
 ---
 
 ## 目录结构
-├── main.py # 百度关键词自动搜索主程序 
-├── ip_test.py # 代理HTTPS检测工具 
-├── keywords.txt # 关键词列表，每行一个关键词 
-├── proxies.txt # 代理池列表，每行一个代理（ip:端口），可为空 
-├── ms-playwright/ # Playwright浏览器内核文件夹，便携分发用
+- ├── main.py # 百度关键词自动搜索主程序 
+- ├── ip_test.py # 代理HTTPS检测工具 
+- ├── keywords.txt # 关键词列表，每行一个关键词 
+- ├── proxies.txt # 代理池列表，每行一个代理（ip:端口），可为空 
+- ├── ms-playwright/ # Playwright浏览器内核文件夹，便携分发用
 
 
 ---
